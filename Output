@@ -1,0 +1,25 @@
+============================================================
+         FILE HANDLING - DAY 7
+============================================================
+
+Student records saved successfully.
+
+Reading Student Records:
+
+Akash Kumar Jha,AIML,85
+Rahul Sharma,CSE,78
+Priya Singh,IT,91
+
+New student record added.
+
+Updated Student Records:
+
+Akash Kumar Jha,AIML,85
+Rahul Sharma,CSE,78
+Priya Singh,IT,91
+Neha Verma,ECE,88
+
+Total Student Records: 4
+
+Program Executed Successfully ✅
+============================================================
