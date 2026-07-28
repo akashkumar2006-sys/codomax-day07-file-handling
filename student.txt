@@ -1,0 +1,4 @@
+Akash Kumar Jha,AIML,85
+Rahul Sharma,CSE,78
+Priya Singh,IT,91
+Neha Verma,ECE,88
